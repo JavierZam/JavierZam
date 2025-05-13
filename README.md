@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<h5 align="left">Mobile Dev</h5>
+<h5 align="left">Mobile Devs</h5>
 <p>
 <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
